@@ -5,6 +5,7 @@ Creamos una pequeña applicación de gestión de contactos con Firebase desde el
 <p align="center">
   <img src="./contact.jpg" width=550 >
 </p>
+
 ## TO-DO funcionalidades
 
 Crea,
