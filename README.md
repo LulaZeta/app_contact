@@ -26,9 +26,9 @@ $ npm install
 $ npm run dev
 
 ## Resources
-https://firebase.google.com/docs/admin/setup
-https://firebase.google.com/docs/firestore/manage-data/delete-data
-https://freefrontend.com/css-background-patterns/
-https://www.bootstrapcdn.com/bootswatch/
+- https://firebase.google.com/docs/admin/setup
+- https://firebase.google.com/docs/firestore/manage-data/delete-data
+- https://freefrontend.com/css-background-patterns/
+- https://www.bootstrapcdn.com/bootswatch/
 
 ¡Eso es! Comience a codificar su aplicación React :)
