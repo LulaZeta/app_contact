@@ -19,7 +19,7 @@ Es una CRUD Web application usando Firebase Admin SDK con Firestore, Nodejs y ex
 1. Clona el repositorio
 $ git clone https://github.com/LulaZeta/app_contact.git
 
-2. Instala el /node_modules
+2. Instalación
 $ npm install
 
 3. Ejecutar el servidor de desarrollo.
