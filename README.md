@@ -3,7 +3,7 @@
 Creamos una pequeña applicación de gestión de contactos con Firebase desde el Backend a través de Firebase Admin SDK, el cual es un módulo de npm que nos permitira conectarnos a Firebase desde Nodejs y poder interactuar con él, la base de datos NoSQL.
 
 <p align="center">
-  <img src="./contact.jpg" width=550 >
+  <video src="./contact-app.mp4" width=550 >
 </p>
 
 ## TO-DO funcionalidades
